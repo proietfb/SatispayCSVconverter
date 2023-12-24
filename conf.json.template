@@ -1,0 +1,8 @@
+{
+    "botAPIKey": "YOUR_API_KEY",
+    "restrictTo": [{
+        "username": "telegramUserName",
+        "chatID": 12345678
+    }]
+}
+
